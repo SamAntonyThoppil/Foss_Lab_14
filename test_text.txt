@@ -1,2 +1,2 @@
 Well This's only a text file for testing git link.
-This is the line added 
+This is the line added from remote repository
